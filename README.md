@@ -94,4 +94,4 @@ npm run dev
 - [ ] Módulo "Cotizador de Envíos"
 
 ---
-*Diseñado y desarrollado por **Gonzalo - Software Engineer***
+*Diseñado y desarrollado por **Gonzalo Soto Jiménez - Software Engineer***
