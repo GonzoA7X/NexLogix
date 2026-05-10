@@ -1,7 +1,4 @@
 ﻿# 📦 NexLogix - Advanced Logistics Intelligence Platform
-
-![Status: Active](https://img.shields.io/badge/Status-Active-success) ![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)
-
 > **NexLogix** es una plataforma logística empresarial de arquitectura *Full-Stack* (Monorepo), diseñada para ofrecer trazabilidad, monitoreo en tiempo real y gestión inteligente de envíos de alta densidad.
 
 ---
